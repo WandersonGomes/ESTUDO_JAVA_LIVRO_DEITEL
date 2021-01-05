@@ -18,10 +18,10 @@ public class Addition {
         int number2;
         int sum;
         
-        System.out.println("Enter first integer: ");
+        System.out.print("Enter first integer: ");
         number1 = input.nextInt();
         
-        System.out.println("Enter second integer: ");
+        System.out.print("Enter second integer: ");
         number2 = input.nextInt();
         
         sum = number1 + number2;
