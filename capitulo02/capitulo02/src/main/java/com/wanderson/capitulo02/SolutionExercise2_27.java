@@ -5,7 +5,6 @@
  */
 package com.wanderson.capitulo02;
 
-import java.util.Scanner;
 /**
  *
  * @author lobonegro
